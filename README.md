@@ -1,0 +1,2 @@
+# zsmeproject
+strona internetowa
